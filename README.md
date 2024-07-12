@@ -13,7 +13,7 @@ Python, Scikit-learn, Pandas, NLTK
 - Aisyah (LinkedIn: [Aisyah's LinkedIn Profile](https://www.linkedin.com/in/aisyahkhns))
 
 #### Acknowledgments
-Special thanks to Universitas Muhammadiyah Surakarta for providing the dataset and research insights.
+Special thanks to Universitas Muhammadiyah Surakarta for support to collecting dataset and research insights.
 
 ### My Article
 http://proceedings.alptkptm.org/index.php/iceduall/article/view/48
